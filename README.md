@@ -34,7 +34,7 @@ JavaScript برای اعتبارسنجی
 
 برای دیدن پروژه در مرورگر:
 
-git clone https://github.com/USERNAME/pink-login-page.git
+git clone https://github.com/asadiyanaliyeh-wq/pink-login-page.git
 cd pink-login-page
 
 
